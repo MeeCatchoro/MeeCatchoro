@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oioi! 👋
+Sou aluno de Sistemas de Informação na EACH--USP (Escola de Artes, Ciências e Humanidades da Universidade de São Paulo)
 
 <!--
 **MeeCatchoro/MeeCatchoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
